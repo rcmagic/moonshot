@@ -1,11 +1,11 @@
 {
 	"name" : "Fearless Night",
-	"description": "",
+	"description": "Fearless Night is a 2D competitive featuring HD sprite animations and high paced game play!",
 
 	"byline": "Shobu Games",
 	"website": "ShobuGames.com",
-	"twitter": "",
-	"facebook": "",
+	"twitter": "Shobugames",
+	"facebook": "http://www.facebook.com/fearlessnightgame",
 
 	"images": ["fearlessnight.png"],
 	"videos": [],
